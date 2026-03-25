@@ -2,4 +2,4 @@
 ### 🎨 A loader by CPU's monitor 🎨
 
 This software was made in the 1980s.
-A video showing how the application works: video(https://www.youtube.com/watch?v=nhhspBqf408)
+A video showing how the application works: https://www.youtube.com/watch?v=nhhspBqf408
